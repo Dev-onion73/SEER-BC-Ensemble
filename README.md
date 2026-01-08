@@ -16,11 +16,13 @@ This study addresses these gaps by:
 ## Repository Structure
 
 ```
+
 .
-├── Hybrid_Ensemble_Final.ipynb          # Full Python Notebook (as provided)
-├── Hybrid_Ensemble_Final.py             # Full python Script
-├── sample_data.csv                      # 20 Samples from dataset
-└── README.md
+├── Feature_Selection.py                 # Hybrid Feature Selection Approach as Python file
+├── Model_Train-Test.py                  # Model Training and evaluation with proposed classifier as Python file
+├── Notebook_Final.ipynb                 # Complete Pipeline as Python Notebook File
+├── README.md
+└── sample_data.csv                      # 20 Samples from dataset
 ```
 
 **Note**: The full dataset is proprietary to SEER and was obtained through ICMR-NIRT and cannot be redistributed. `sample_data.csv` contains 20 samples and is for illustrative purposes only.
