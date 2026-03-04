@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,Specificity,F1-Score
+ADA,1.0,1.0,1.0,1.0,1.0
+GNB,1.0,1.0,1.0,1.0,1.0
+XGB,1.0,1.0,1.0,1.0,1.0
+LOG,1.0,1.0,1.0,1.0,1.0
+Ensemble_Avg,1.0,1.0,1.0,1.0,1.0
